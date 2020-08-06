@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 🖖🏽
+
+My name is Kielvi, yeah, I know, or not why this name.  I'm a developer, focused on the front end with over 10 years of experience. Very comfortable in learning and facing new challenges and new technologies. Over the years, I have been through many technologies like PHP, Coldfusion, .NET. IN the frontend, frameworks like AngularJS, Angular, and now, my focus is the React.
+
+In my free time, I like to train football 🏈, watch series, play video games and go to the beach or trekking with my dog 🦊.
+
 
 <!--
 **kielvi/kielvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
