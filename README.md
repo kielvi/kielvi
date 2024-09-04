@@ -1,8 +1,9 @@
-### Hi there 🖖🏽
+###
 
-My name is Kielvi, yeah, I know, or not why this name.  I'm a developer, focused on the front end with over 10 years of experience. Very comfortable in learning and facing new challenges and new technologies. Over the years, I have been through many technologies like PHP, Coldfusion, .NET. IN the frontend, frameworks like AngularJS, Angular, and now, my focus is the React.
+As a Software Developer, I'm focused on the front end with over ten years of experience. Very comfortable in learning and facing new challenges and new technologies.
+I have strong knowledge and performance with JavaScript, adopting many frameworks and paradigms with a solid understanding of React.js and Angular.js. Also, I have immense expertise in developing interfaces using Javascript, CSS, and pre-processors like SASS.
 
-In my free time, I like to train football 🏈, watch series, play video games and go to the beach or trekking with my dog 🦊.
+I already have worked with Coldfusion, PHP, Node, and Python.
 
 
 <!--
