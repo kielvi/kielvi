@@ -1,11 +1,10 @@
 ###
 
-As a Software Developer, I'm focused on the front end with over ten years of experience. Very comfortable in learning and facing new challenges and new technologies.
-I have strong knowledge and performance with JavaScript, adopting many frameworks and paradigms with a solid understanding of React.js and Angular.js. Also, I have immense expertise in developing interfaces using Javascript, CSS, and pre-processors like SASS.
-
-I already have worked with Coldfusion, PHP, Node, and Python.
+As a software developer, I'm focused on the front end and have over ten years of experience. Very comfortable in learning and facing new challenges and new technologies.
+I have strong knowledge and performance with JavaScript, adopting many frameworks and paradigms with a solid understanding of React.js and Angular.js. Also, I have immense expertise in developing interfaces using Javascript, CSS, and pre-processors like SASS. I already have worked with Coldfusion, PHP, Node, and Python.
 
 
+Currently, I'm the Tech lead at Serviços Partilhados do Ministério da Saúde of Portugal, leading a micro-frontend project using React and Angular to develop a design system.
 <!--
 **kielvi/kielvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
